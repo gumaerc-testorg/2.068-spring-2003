@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Numerical Evaluation of Wavenumber Integral, and Aliasing and Wrap-around
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-068-computational-ocean-acoustics-13-853-spring-2003/a25f99b4c61b89c902d43c48331e5c12_lect_91.pdf
+file: /media/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/a25f99b4c61b89c902d43c48331e5c12_lect_91.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lect_91.pdf
 uid: a25f99b4-c61b-89c9-02d4-3c48331e5c12

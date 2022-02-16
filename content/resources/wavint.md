@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-068-computational-ocean-acoustics-13-853-spring-2003/469b7802dd486b13460b7edaf403f9ed_wavint.pdf
+file: /media/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/469b7802dd486b13460b7edaf403f9ed_wavint.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: wavint.pdf
 uid: 469b7802-dd48-6b13-460b-7edaf403f9ed

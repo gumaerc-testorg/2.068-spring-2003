@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Problem set.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-068-computational-ocean-acoustics-13-853-spring-2003/5121aa865dd28b3dcf5e98cdfac71293_PS2.pdf
+file: /media/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/5121aa865dd28b3dcf5e98cdfac71293_PS2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: PS2.pdf
 uid: 5121aa86-5dd2-8b3d-cf5e-98cdfac71293

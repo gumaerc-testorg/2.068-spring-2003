@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Parabolic Equation: Derivation of Parabolic Equations'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-068-computational-ocean-acoustics-13-853-spring-2003/ae4f9a0ca94b1591c5d6acc4faa97dc9_lect_181.pdf
+file: /media/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/ae4f9a0ca94b1591c5d6acc4faa97dc9_lect_181.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lect_181.pdf
 uid: ae4f9a0c-a94b-1591-c5d6-acc4faa97dc9

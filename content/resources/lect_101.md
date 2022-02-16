@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Wavenumber Integration
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-068-computational-ocean-acoustics-13-853-spring-2003/dac61913de6fa942dac2ba2a2085a6e8_lect_101.pdf
+file: /media/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/dac61913de6fa942dac2ba2a2085a6e8_lect_101.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lect_101.pdf
 uid: dac61913-de6f-a942-dac2-ba2a2085a6e8
