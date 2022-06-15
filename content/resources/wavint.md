@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/469b7802dd486b13460b7edaf403f9ed_wavint.pdf
+file: /courses/2-068-computational-ocean-acoustics-13-853-spring-2003/469b7802dd486b13460b7edaf403f9ed_wavint.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

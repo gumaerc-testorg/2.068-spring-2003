@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Isovelocity Problem, Generalized Derivation
-file: /media/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/8bcf4ac3449185efc165d6cfb677fec2_lect_121.pdf
+file: /courses/2-068-computational-ocean-acoustics-13-853-spring-2003/8bcf4ac3449185efc165d6cfb677fec2_lect_121.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: lect_121.pdf
 uid: 8bcf4ac3-4491-85ef-c165-d6cfb677fec2
 ---
+Isovelocity Problem, Generalized Derivation
+
