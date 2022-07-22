@@ -5,6 +5,7 @@ file: /courses/2-068-computational-ocean-acoustics-13-853-spring-2003/dc6b012393
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lect_61.pdf
 uid: dc6b0123-93aa-f187-c094-32f5519266b1
 ---
 Wavenumber Integration: Layer Solutions and Interface Conditions
-

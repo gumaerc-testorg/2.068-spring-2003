@@ -5,6 +5,7 @@ file: /courses/2-068-computational-ocean-acoustics-13-853-spring-2003/877ed4bd95
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lect_151.pdf
 uid: 877ed4bd-9504-3939-6c92-bfa01573d2d0
 ---
 Normal Modes: Numerical Procedures
-

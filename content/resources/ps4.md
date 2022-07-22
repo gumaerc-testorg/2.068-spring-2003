@@ -5,6 +5,7 @@ file: /courses/2-068-computational-ocean-acoustics-13-853-spring-2003/18cb12ce80
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: PS4.pdf
 uid: 18cb12ce-8001-c347-1af0-742a4697585a
 ---
 Problem set.
-

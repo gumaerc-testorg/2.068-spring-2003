@@ -5,6 +5,7 @@ file: /courses/2-068-computational-ocean-acoustics-13-853-spring-2003/7d5ede925e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lect_131.pdf
 uid: 7d5ede92-5ec7-9880-0e70-768bca0ffd51
 ---
 Normal Modes: Munk profile, Numerical Approaches
-

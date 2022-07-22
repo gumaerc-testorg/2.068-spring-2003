@@ -5,6 +5,7 @@ file: /courses/2-068-computational-ocean-acoustics-13-853-spring-2003/5121aa865d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: PS2.pdf
 uid: 5121aa86-5dd2-8b3d-cf5e-98cdfac71293
 ---
 Problem set.
-

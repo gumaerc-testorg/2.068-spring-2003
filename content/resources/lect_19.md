@@ -5,6 +5,7 @@ file: /courses/2-068-computational-ocean-acoustics-13-853-spring-2003/4afbf5c07b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lect_19.pdf
 uid: 4afbf5c0-7b16-76c3-0dbe-a0bb4ef2dda1
 ---
 Parabolic Equation: Starting Fields
-
