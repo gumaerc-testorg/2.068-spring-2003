@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set.
 file: /courses/2-068-computational-ocean-acoustics-13-853-spring-2003/01556c809fe160521db32b211f295d0e_PS3.pdf
+file_size: 36985
 file_type: application/pdf
 learning_resource_types:
 - Assignments
