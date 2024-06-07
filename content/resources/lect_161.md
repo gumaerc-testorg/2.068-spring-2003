@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Normal Modes: Range-dependent Environment, Coupled Modes'
 file: /courses/2-068-computational-ocean-acoustics-13-853-spring-2003/5449fd5731fa93c2955a8e8abdcba7da_lect_161.pdf
+file_size: 894466
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Normal Modes: 3-D Environment'
 file: /courses/2-068-computational-ocean-acoustics-13-853-spring-2003/91b19fd09275dcc5431b25225e81ac28_lect_17.pdf
+file_size: 894645
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
