@@ -2,6 +2,7 @@
 content_type: resource
 description: Reflection and Transmission; Integral Transform Solution; Source in Half-spaces
 file: /courses/2-068-computational-ocean-acoustics-13-853-spring-2003/fdf588754b87eb61184b9b98249328ef_lect_42.pdf
+file_size: 910426
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

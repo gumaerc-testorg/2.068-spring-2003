@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-068-computational-ocean-acoustics-13-853-spring-2003/d06101acf57a8ff1c6a4a010e069d58a_ps6.pdf
+file_size: 26920
 file_type: application/pdf
 learning_resource_types:
 - Assignments

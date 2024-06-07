@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Normal Modes: Munk profile, Numerical Approaches'
 file: /courses/2-068-computational-ocean-acoustics-13-853-spring-2003/7d5ede925ec798800e70768bca0ffd51_lect_131.pdf
+file_size: 875938
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
