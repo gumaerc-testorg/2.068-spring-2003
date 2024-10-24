@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Normal Modes: Numerical Approaches'
-file: /courses/2-068-computational-ocean-acoustics-13-853-spring-2003/cbe631d3c15c6e9627ba2c85a5192fa5_lect_141.pdf
+file: /ol-ocw-studio-app/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/cbe631d3c15c6e9627ba2c85a5192fa5_lect_141.pdf
 file_size: 875040
 file_type: application/pdf
 learning_resource_types:
