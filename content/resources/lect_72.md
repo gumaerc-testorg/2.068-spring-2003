@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Waveumber Integration: Global Matrix Solution'
-file: /courses/2-068-computational-ocean-acoustics-13-853-spring-2003/63eadcae081807f761362a412d313b77_lect_72.pdf
+file: /ol-ocw-studio-app/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/63eadcae081807f761362a412d313b77_lect_72.pdf
 file_size: 821807
 file_type: application/pdf
 learning_resource_types:

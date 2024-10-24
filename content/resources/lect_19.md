@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Parabolic Equation: Starting Fields'
-file: /courses/2-068-computational-ocean-acoustics-13-853-spring-2003/4afbf5c07b1676c30dbea0bb4ef2dda1_lect_19.pdf
+file: /ol-ocw-studio-app/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/4afbf5c07b1676c30dbea0bb4ef2dda1_lect_19.pdf
 file_size: 877726
 file_type: application/pdf
 learning_resource_types:
