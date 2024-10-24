@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Time Series Simulation, and Signal and Noise
-file: /courses/2-068-computational-ocean-acoustics-13-853-spring-2003/b811479eb93eeee397d1f32dfec0682d_lect_224.pdf
+file: /ol-ocw-studio-app/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/b811479eb93eeee397d1f32dfec0682d_lect_224.pdf
 file_size: 684742
 file_type: application/pdf
 learning_resource_types:

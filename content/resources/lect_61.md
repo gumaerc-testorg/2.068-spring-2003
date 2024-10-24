@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Wavenumber Integration: Layer Solutions and Interface Conditions'
-file: /courses/2-068-computational-ocean-acoustics-13-853-spring-2003/dc6b012393aaf187c09432f5519266b1_lect_61.pdf
+file: /ol-ocw-studio-app/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/dc6b012393aaf187c09432f5519266b1_lect_61.pdf
 file_size: 674161
 file_type: application/pdf
 learning_resource_types:
