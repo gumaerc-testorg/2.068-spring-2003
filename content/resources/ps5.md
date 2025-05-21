@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set.
-file: /ol-ocw-studio-app/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/9bbe191a50d1f2f85131c4b647eeb2c5_ps5.pdf
+file: /courses/2-068-computational-ocean-acoustics-13-853-spring-2003/9bbe191a50d1f2f85131c4b647eeb2c5_ps5.pdf
 file_size: 22569
 file_type: application/pdf
 learning_resource_types:
