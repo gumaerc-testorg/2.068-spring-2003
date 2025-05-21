@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Doppler Shift in Waveguide
-file: /ol-ocw-studio-app/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/f25e7b6ded192e903796aed9b1191aec_lect_211.pdf
+file: /courses/2-068-computational-ocean-acoustics-13-853-spring-2003/f25e7b6ded192e903796aed9b1191aec_lect_211.pdf
 file_size: 556035
 file_type: application/pdf
 learning_resource_types:
