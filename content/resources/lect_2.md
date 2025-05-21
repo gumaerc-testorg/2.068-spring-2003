@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The acoustic wave equation; Integral transforms; the Helmholtz equation
-file: /ol-ocw-studio-app/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/ba33cc5ba17bda8153dbb2143b5e82b9_lect_2.pdf
+file: /courses/2-068-computational-ocean-acoustics-13-853-spring-2003/ba33cc5ba17bda8153dbb2143b5e82b9_lect_2.pdf
 file_size: 611443
 file_type: application/pdf
 learning_resource_types:
