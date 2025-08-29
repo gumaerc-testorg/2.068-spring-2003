@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Wavenumber Integration
-file: /courses/2-068-computational-ocean-acoustics-13-853-spring-2003/dac61913de6fa942dac2ba2a2085a6e8_lect_101.pdf
+file: /ol-ocw-studio-app/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/dac61913de6fa942dac2ba2a2085a6e8_lect_101.pdf
 file_size: 1696332
 file_type: application/pdf
 learning_resource_types:
